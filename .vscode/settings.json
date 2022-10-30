@@ -1,3 +1,7 @@
 {
-    "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "prettier.jsxSingleQuote": false,
+  "cSpell.autoFormatConfigFile": false,
+  "typescript.preferences.quoteStyle": "double",
+  "javascript.preferences.quoteStyle": "double"
 }
